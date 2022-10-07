@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{2022fusioner,
+  title     = {Open-vocabulary Semantic Segmentationwith Frozen Vision-Language Models},
+  author    = {Chaofan Ma, Yuhuan Yang, YanFeng Wang, Ya Zhang and Weidi Xie},
+  booktitle = {British Machine Vision Conference},
+  year      = {2022}
 }
